@@ -9,10 +9,16 @@ Text-to-Image
   https://www.midjourney.com/auth/signin/
   https://www.craiyon.com/
 Text-to-Video
+  
 Text-to-Audio
+  
 Text-to-Text
+  
 Text-to-motion
+  
 Text-to-Code
+  
 Audio-to-Text
+  
 Text-to-Music
   https://app.resemble.ai/
